@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\New Folder\Scripts\Enemy.cs">
+    <Files>
+      <File FileName="Assets\New Folder\Scripts\CameraFollow.cs" Line="7" Column="31" />
+      <File FileName="Assets\New Folder\Scripts\Enemy.cs" Line="9" Column="12" />
+      <File FileName="Assets\New Folder\Scripts\PlayerMobility1.cs" Line="1" Column="1" />
+      <File FileName="..\Row3Games-master\Row3Games-master\Thunderstone\Assets\Scripts\ContactDestroy.cs" Line="1" Column="1" />
+      <File FileName="Assets\New Folder\Scripts\BulletScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\New Folder\Scripts\PlayerShooting.cs" Line="28" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
